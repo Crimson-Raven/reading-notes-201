@@ -7,8 +7,8 @@ A shell is a user program that provides an interface for the user to use the ope
 ### How does Bash locate and execute commands on a Linux or Unix system?
 Bash will use a shell variable called $PATH to locate your executable commands. The $PATH variable is a list of directories. Those directories are separated by colons (:), and Bash will search each directory for a file with the name that you prompted for. 
 ### How can you determine if your system is running a Bash shell?
-To find out whether you're running a Bash shell, use the echo command along with a special variable that represents the name of the currently running process: '$ echo $0
-bash'
+To find out whether you're running a Bash shell, use the echo command along with a special variable that represents the name of the currently running process: `$ echo $0
+bash`
 ### What makes Bash scripting powerful and why is it considered scriptable?
 It allows users to execute commands, navigate the file system, and run scripts that can automate repetitive tasks. It also serves as both a powerful command interpreter for direct user interaction, and a scripting language for automating tasks. 
 ### Bash scripting allows for customization, automation, and efficiency. Discuss methods or practices from your previous work experience or cultural background that aim to achieve similar goals in daily tasks.
