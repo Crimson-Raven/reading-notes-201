@@ -1,6 +1,6 @@
 # Author: Rebecca Childs
 ## Reading Notes: 201
-### Lab 03
+### Lab 04
 ### What should you do if multiple issues are happening simultaneously during troubleshooting?
 If multiple issues are happening simultaneously during troubleshooting, it’s important to break each issue down into an individual issue, and then troubleshoot them separately and one at a time. 
 ### What should be done once a successful solution has been identified during the troubleshooting process?
