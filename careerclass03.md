@@ -1,3 +1,6 @@
+# Author: Rebecca Childs
+## Career: Class 03
+
 ### who you met with
 Denise Childs
 ### how you are connected to them
