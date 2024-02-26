@@ -12,7 +12,9 @@ Family Options/Settings
 The Device performance and health section monitors battery life, storage capacity, and gives a complete view of your last Windows updates, and drivers. You can also restore or refresh Windows from this menu. You can access this in the Windows Defender Security Center.
 ### How does the Windows Defender Security Center notify you of issues that require your attention?
 A yellow exclamation mark on the shield icon in the bottom right corner of your computer screen.
+
 ![alt text](defender-1.png)
+
 ### What features are managed under the “Firewall & network protection” section in the Windows Defender Security Center?
 Private Network, Public Network, Allow an app through firewall, Network and Internet troubleshooter, Firewall notification settings, Advanced settings, and restore firewalls to default.
 ### How does the concept of “security” in Windows Defender Security Center relate to your own experiences in keeping your personal belongings safe? Share some strategies you use to protect your belongings and how they might parallel the security measures used in the digital world.
