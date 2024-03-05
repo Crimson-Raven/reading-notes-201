@@ -1,4 +1,4 @@
-# Author: Rebecca
+# Author: Rebecca Childs
 ## Reading Notes:
 ### Lab 11
 
